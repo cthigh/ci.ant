@@ -12,7 +12,7 @@
 
     <groupId>net.wasdev.wlp.ant</groupId>
     <artifactId>wlp-anttasks</artifactId>
-    <version>1.11</version>
+    <version>1.12-SNAPSHOT</version>
     <name>WebSphere Application Server Liberty Profile Ant Tasks</name>
     <description>
        Parent pom for Ant tasks supporting development with
@@ -32,7 +32,7 @@
         <connection>scm:git:git@github.com:cthigh/ci.ant.git</connection>
         <developerConnection>scm:git:git@github.com:cthigh/ci.ant.git</developerConnection>
         <url>git@github.com:cthigh/ci.ant.git</url>
-      <tag>wlp-anttasks-1.11</tag>
+      <tag>wlp-anttasks-1.5</tag>
   </scm>
 
     <developers>
