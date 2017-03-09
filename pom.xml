@@ -12,7 +12,7 @@
 
     <groupId>net.wasdev.wlp.ant</groupId>
     <artifactId>wlp-anttasks</artifactId>
-    <version>1.12</version>
+    <version>1.13-SNAPSHOT</version>
     <name>WebSphere Application Server Liberty Profile Ant Tasks</name>
     <description>
        Parent pom for Ant tasks supporting development with
